@@ -52,7 +52,6 @@ public class CharacterController2D : MonoBehaviour
 		}
 	}
 
-
 	public void Move(float move, bool crouch, bool jump)
 	{
 
